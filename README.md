@@ -1,4 +1,15 @@
-The character move with (A,D) keys and space for jump.
-The game is all about the unexpected hurdle for the user maybe in some levles the block is empty but it show you the block is filled,button trigger some hurdles,hurdles may be kill you befoore touching you so its all unexpected but intresting to play and may be your moving keys will be inverted.I hope you will enjoy it.
-Before playing setup SFML lib in the IDE and download all the assets and set their path and if uou download exe then must downlaod .dll files if uou don't have.
-Thank You.
+Game Description
+
+The character moves using the A and D keys, with Space for jumping.
+
+This game revolves around unexpected hurdles, offering players a thrilling and unpredictable experience. In some levels, blocks may appear filled but are actually empty. Buttons can trigger traps or obstacles, and some hurdles may eliminate you even before you touch them. To add to the excitement, your movement keys might even get inverted!
+
+Inspired by the game Levil Devil, this game is designed to surprise and challenge players at every turn. I hope you find it both fun and engaging!
+
+
+Setup Instructions
+
+Set up the SFML library in your IDE.
+Download all the required assets and configure their paths.
+If you are running the executable (.exe), ensure you have the necessary .dll files in your system.
+Thank you, and enjoy the game!
